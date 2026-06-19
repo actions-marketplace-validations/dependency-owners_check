@@ -7,17 +7,17 @@
     "url": "https://github.com/dependency-owners/check/issues"
   },
   "dependencies": {
-    "@actions/core": "2.0.3",
-    "dependency-owners": "3.0.3"
+    "@actions/core": "3.0.1",
+    "dependency-owners": "3.1.1"
   },
   "devDependencies": {
-    "@dependency-owners/package-json-loader": "2.0.1",
-    "@kirkeaton/prettier-config": "1.0.6",
-    "@kirkeaton/tsconfig": "2.1.1",
-    "@types/node": "24.10.9",
-    "esbuild": "0.27.2",
-    "prettier": "3.8.1",
-    "typescript": "5.9.3"
+    "@dependency-owners/package-json-loader": "2.1.0",
+    "@kirkeaton/prettier-config": "2.0.0",
+    "@kirkeaton/tsconfig": "3.0.0",
+    "@types/node": "24.13.0",
+    "esbuild": "0.28.0",
+    "prettier": "3.8.3",
+    "typescript": "6.0.3"
   },
   "engines": {
     "node": ">=24"
