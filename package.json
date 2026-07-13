@@ -13,10 +13,10 @@
   "devDependencies": {
     "@dependency-owners/package-json-loader": "2.1.0",
     "@kirkeaton/prettier-config": "2.0.0",
-    "@kirkeaton/tsconfig": "3.0.0",
-    "@types/node": "24.13.2",
+    "@kirkeaton/tsconfig": "3.1.0",
+    "@types/node": "24.13.3",
     "esbuild": "0.28.1",
-    "prettier": "3.8.4",
+    "prettier": "3.9.5",
     "typescript": "6.0.3"
   },
   "engines": {
